@@ -1,0 +1,3 @@
+﻿  Child.cpp
+C:\Users\likho\source\repos\OC\lab2\Child\Child.cpp(27,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Child.vcxproj -> C:\Users\likho\source\repos\OC\lab2\Debug\Child.exe
